@@ -1,7 +1,7 @@
 from data import resources
 
 want_coffee = True
-
+#adding a comment to see what happens to Github
 
 def coffee_machine():
     global want_coffee
